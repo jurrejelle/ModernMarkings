@@ -9,6 +9,8 @@
 Q. What does this have over the GTNH version of MM?
 A. I have added pride flags and other extra markings, as well as backporting everything they add to this fork.
 ![flags.png](flags.png)
+The total (hopefully up-to-date) list of flags this fork has is:
+![latest_flags.png](latest_flags.png)
 
 Q. Will it work with a chisel from non-GTNH?
 A. Maybe? The dependencies file says "GTNH:Chisel:2.16.4-GTNH", but it might work in other 1.7.10 modpacks.

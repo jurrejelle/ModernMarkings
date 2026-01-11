@@ -170,6 +170,8 @@ public class ModBlocks {
     public static final Block WALL_MARKING_PPE_HIGHVIS = new MarkingWallGeneral("wall_marking_ppe_highvis", "marking_ppe_highvis");
     public static final Block WALL_MARKING_PPE_MASK = new MarkingWallGeneral("wall_marking_ppe_mask", "marking_ppe_mask");
     public static final Block WALL_MARKING_PPE_SUIT = new MarkingWallGeneral("wall_marking_ppe_suit", "marking_ppe_suit");
+    public static final Block WALL_MARKING_NO_SAFETY = new MarkingWallGeneral("wall_marking_no_safety", "marking_no_safety");
+    public static final Block WALL_MARKING_SMOKING_FIRST = new MarkingWallGeneral("wall_marking_smoking_first", "marking_smoking_first");
 
     public static final Block WALL_MARKING_HAZARD_BARBEDWIRE = new MarkingWallGeneral("wall_marking_hazard_barbedwire", "marking_hazard_barbedwire");
     public static final Block WALL_MARKING_HAZARD_HIGHWATER = new MarkingWallGeneral("wall_marking_hazard_highwater", "marking_hazard_highwater");
